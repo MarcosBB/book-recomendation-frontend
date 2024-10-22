@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Header />
-        <main className="AppBody">
+        <main>
           <Routes>
             {/* <Route path="/" element={<Home />} /> */}
             {/* <Route path="login/*" element={<Login />} /> */}
